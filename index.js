@@ -15,8 +15,8 @@ app.use(express.static(path.join(__dirname, "public")));
 const connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'mysql@2024',
-    database: 'delta_app',
+    password: 'your_database_password',
+    database: 'your_database_name',
 });
 
 // let getRandomUser = () => {
