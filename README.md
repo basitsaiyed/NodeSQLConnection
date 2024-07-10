@@ -1,6 +1,11 @@
 # NodeSQLConnection
 
 NodeSQLConnection is a simple user management application built with Node.js and MySQL. It allows you to create, read, update, and delete (CRUD) user records in a MySQL database.
+![image](https://github.com/basitsaiyed/NodeSQLConnection/assets/91619822/4b901e47-0e20-4924-a8cc-4add2a9a9ed4)
+![image](https://github.com/basitsaiyed/NodeSQLConnection/assets/91619822/e6152bc2-9d03-4019-9301-92a443548dba)
+![image](https://github.com/basitsaiyed/NodeSQLConnection/assets/91619822/ad16be3c-a770-4e1e-a538-220819a8f360)
+![image](https://github.com/basitsaiyed/NodeSQLConnection/assets/91619822/9db0be58-d86a-4021-a99b-790a25aa7fb7)
+
 
 ## Features
 
